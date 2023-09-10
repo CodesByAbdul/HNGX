@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #011627;
+  background-color: #FDFFFC;
+  margin: auto;
+  width: 80%;
+}
+
+h1 {
+  font-weight: 700;
+  margin: 10px;
+}
+
+p {
+  font-weight: 500;
+  margin: 10px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2EC4B6;
+}
+
+a:hover {
+  color: #E71D36;
+}
+
